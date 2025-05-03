@@ -1,8 +1,15 @@
-# mini-lab
-A collection of various hands-on projects and notes from my journey exploring systems, virtualization, and OS configuration. This repository includes experiments with virtual machines, Linux, and Windows, and general setup tasks
+# Homelab Notes
+Welcome to my homelab notes repository. This is where I document my personal IT experiments steps.
 
-## Purpose
-This repo serves as a learning journal and workspace for documenting my technical growth. I aim to understand core system operations, improve troubleshooting skills, and build strong foundations for IT and cybersecurity work.
+## Why This Exists
+I'm using a homelab to explore and practice real-world IT skills in a hands-on way, These notes help me:
+- Keep track of what I learn
+- Document for future use
+- Build a portfolio of technical experience in a structured folders form
 
-## Disclaimer
-All activities in this repository are for educational and ethical purposes only. No content is intended for malicious use.
+## Topics Covered
+- Virtualization
+- Networking
+- Linux, Windows
+- Security tools
+- Scripts
