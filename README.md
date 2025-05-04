@@ -1,5 +1,5 @@
-# Homelab Notes
-Welcome to my homelab notes repository. This is where I document my personal IT experiments steps.
+# Cyber Portfoilio
+Welcome to my cyber portfolio repository. This is where I document my personal IT experiments steps.
 
 ## Why This Exists
 I'm using a homelab to explore and practice real-world IT skills in a hands-on way, These notes help me:
