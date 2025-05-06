@@ -4,4 +4,4 @@ This table tracks my certification progress in cybersecurity and IT, including c
 | ---------------------------- | -------- | ---------------- | ----------------- |---------------------------------|
 | CompTIA A+ (220-1101 & 1102) | CompTIA  | In Progress      |N/A                |N/A                              |
 | CompTIA Network+ (N10-008)   | CompTIA  | Planned          |N/A                |N/A                              |
-| ---------------------------- | -------- | ---------------- | ----------------- |---------------------------------|
+|                              |          |                  |                   |                                 |
